@@ -1,0 +1,190 @@
+wp-limit:
+  type: entry
+  title: "Limit (mathematics)"
+  url: "https://en.wikipedia.org/wiki/Limit_(mathematics)"
+  date: 2024-03-15
+  parent:
+    type: reference
+    title: "Wikipedia, the free encyclopedia"
+
+wp-interval-math:
+  type: entry
+  title: "Interval (mathematics)"
+  url: "https://en.wikipedia.org/wiki/Interval_(mathematics)"
+  date: 2024-03-15
+  parent:
+    type: reference
+    title: "Wikipedia, the free encyclopedia"
+
+wp-fastest-prod-car:
+  type: entry
+  title: "List of production car speed records"
+  url: "https://en.wikipedia.org/wiki/List_of_production_car_speed_records"
+  date: 2024-03-15
+  parent:
+    type: reference
+    title: "Wikipedia, the free encyclopedia"
+
+wp-fundamental-theorem-calculus:
+  type: entry
+  title: "Fundamental theorem of calculus"
+  url: "https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus"
+  date: 2024-03-15
+  parent:
+    type: reference
+    title: "Wikipedia, the free encyclopedia"
+    
+wp-summation:
+  type: entry
+  title: "Summation"
+  url: "https://en.wikipedia.org/wiki/Summation"
+  date: 2024-03-15
+  parent:
+    type: reference
+    title: "Wikipedia, the free encyclopedia"
+    
+wp-reimann-sum:
+  type: entry
+  title: "Reimann sum"
+  url: "https://en.wikipedia.org/wiki/Riemann_sum"
+  date: 2024-03-15
+  parent:
+    type: reference
+    title: "Wikipedia, the free encyclopedia"
+    
+wp-integral:
+  type: entry
+  title: "Integral"
+  url: "https://en.wikipedia.org/wiki/Integral"
+  date: 2024-03-15
+  parent:
+    type: reference
+    title: "Wikipedia, the free encyclopedia"
+    
+teknokrat-limit:
+  type: blog
+  title: "Limit Matematika: Pengertian, Konsep Dasar, dan Contoh Soal dengan Pembahasan Lengkap"
+  url: "https://daftarsekolah.spmb.teknokrat.ac.id/2025/12/limit-matematika-pengertian-konsep-dasar-dan-contoh-soal-dengan-pembahasan-lengkap/"
+  date: 2024-03-15
+
+matematika-lanjut-xii-2025:
+  type: book
+  title: "Matematika Tingkat Lanjut untuk SMA/MA Kelas XII (Edisi Revisi)"
+  publisher: Pusat Perbukuan Indonesia
+  author:
+  - Sri, Adi Widodo
+  - Wikan, Budi Utami
+  - Fitria, Sulistyowati 
+  - Atiek, Sandrawati
+  page-total: 320
+  serial-number:
+    isbn: 978-634-00-3296-3
+
+qomaruna-limit:
+  type: article
+  title: 'Penerapan Konsep Limit Fungsi dalam Kehidupan Sehari-Hari: Dari Kecepatan hingga Ekonomi'
+  author:
+  - Sukendar, Bariq Hibatullah
+  - Irvine, Jessie
+  - Saputri, Sinta Dwi
+  - Hernaeny, Ul’fah
+  date: 2025
+  page-range: 22-36
+  parent:
+    type: periodical
+    title: 'Qomaruna: Journal of Multidisciplinary Studies'
+    issue: 2
+    volume: 2
+
+
+irwan_Kasse_Darmiani_Jalil_2021:
+  type: article
+  title: PENERAPAN INTEGRAL LIPAT DUA DALAM PENENTUAN VOLUME PERMUKAAN KUADRATIS
+  author:
+  - Irwan, Muh
+  - Kasse, Irwan
+  - Darmiani, Darmiani
+  - Jalil, Erniwati
+  date: 2021-12
+  page-range: 112-117
+  url: https://journal.uin-alauddin.ac.id/index.php/msa/article/view/18459
+  serial-number:
+    doi: 10.24252/msa.v9i1.18459
+  parent:
+    type: periodical
+    title: Jurnal MSA (Matematika dan Statistika serta Aplikasinya)
+    issue: 1
+    volume: 9
+
+ATIKURRAHMAN_2025:
+  type: article
+  title: Analisis Konseptual Dan Aplikatif Konteks Integral Dalam Kehidupan Sehari-Hari
+  author: Atikurrahman, Moh
+  date: 2025-07
+  url: https://jurnalstkipmelawi.ac.id/index.php/KJPM/article/view/4088
+  serial-number:
+    doi: 10.46368/kjpm.v5i2.4088
+  parent:
+    type: periodical
+    title: 'AL KHAWARIZMI: Jurnal Pendidikan Matematika'
+    issue: 2
+    volume: 5
+
+PETRA2025:
+  type: article
+  title: 'Penerapan Integral Lipat Dua dalam Prediksi Jumlah Penduduk di Kota Tebing Tinggi Tahun 2030 : Visualisasi 3D Menggunakan Geogebra '
+  author:
+  - Pandiangan, Petra Putri Sarinah
+  - Nasution, Alvi Sahrin
+  - Purba, Grace Amelia
+  - Damanik, Rizka Nabila
+  - Saragih, Endang Lyfia
+  - Azmi, Farel Al
+  date: 2025-12
+  page-range: 39-55
+  url: https://journal.arimsi.or.id/index.php/Bilangan/article/view/884
+  serial-number:
+    doi: 10.62383/bilangan.v3i6.884
+  parent:
+    type: periodical
+    title: 'Bilangan : Jurnal Ilmiah Matematika, Kebumian dan Angkasa'
+    issue: 6
+    volume: 3
+
+3b1b-derivatives-through-geometry:
+  type: video
+  title: 'Derivative formulas through geometry | Chapter 3, Essence of calculus'
+  author: Grant, Sanderson
+  url: https://youtu.be/S0_qX4VJhMQ?si=a855o4AdJ6i0DXbp
+
+aulia-peran-kalkulus-teknologi:
+  type: article
+  title: Peran Kalkulus dalam Kehidupan Sehari-hari dan Perkembangan Teknologi
+  author:
+  - Aulia, Anisa
+  - Nurlilatya, Kirania
+  - Sari, Carmen Anggita
+  - Claudia, Cindi
+  - Permata, Fania Dwi
+  - Andini, Giska Putri
+  - Afgani, Muhammad Win
+  date: 2026
+  page-range: 643-649
+  parent:
+    type: periodical
+    title: 'Polinomial: Jurnal Pendidikan Matematika'
+    issue: 2
+    volume: 5
+
+asyhar-aplikasi-turunan-keuntungan:
+  type: article
+  title: Aplikasi Turunan (Derivatif) Dalam Permasalahan Analisis Keuntungan Maksimum
+  author: Asyhar, Beni
+  date: 2014
+  page-range: 1-14
+  parent:
+    type: periodical
+    title: 'Al-Khwarizmi: Jurnal Pendidikan Matematika dan Ilmu Pengetahuan Alam'
+    issue: 1
+    volume: 2
+
